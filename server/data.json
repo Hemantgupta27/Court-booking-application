@@ -1,0 +1,24 @@
+{
+  "bookings": [
+    {
+      "courtId": "c2",
+      "slotId": "c2-2026-01-03-12:00",
+      "date": "2026-01-03",
+      "userName": "Deep",
+      "userEmail": "deepakj6350@gmail.com",
+      "userPhone": "+916350129045",
+      "id": "bk-p48i0j34f",
+      "createdAt": "2026-01-03T05:52:27.995Z"
+    },
+    {
+      "courtId": "c1",
+      "slotId": "c1-2026-01-03-08:00",
+      "date": "2026-01-03",
+      "userName": "Deepak Singh",
+      "userEmail": "kamal8278684648@gmail.com",
+      "userPhone": "+916350129045",
+      "id": "bk-ilvid7qic",
+      "createdAt": "2026-01-03T06:34:08.331Z"
+    }
+  ]
+}

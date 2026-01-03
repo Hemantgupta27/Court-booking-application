@@ -1,0 +1,7 @@
+{
+  "name": "Cridaa Turf & Court Booking",
+  "description": "A high-performance booking application for sports turfs and courts with real-time availability tracking and a sleek, modern UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
